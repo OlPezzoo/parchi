@@ -1,2 +1,2 @@
 # Parchi
-Programma PHP che permette la connessione ad un database per ricavare dati da esso. Il sistema raccoglie le informazioni di alcuni parchi naturali situati in Italia.
+PHP program that allows you to connect to a database to get data from it. The system collects information from some natural parks located in Italy.
